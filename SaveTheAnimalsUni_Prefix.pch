@@ -1,0 +1,28 @@
+	//
+	// Prefix header for all source files of the 'FlashCardDB' target in the 'FlashCardDB' project
+	//
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif
+
+#import "Utils.h"
+#import "Constants.h"
+
+
+#define IS_IPAD (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+
+#ifndef IS_IPAD
+#import "Constants_iPad.h"
+#else 
+#import "Constants.h"
+#endif
+
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VoiceNotes</key>
+	<true/>
+	<key>Comments</key>
+	<true/>
+	<key>Twitter</key>
+	<true/>
+	<key>Facebook</key>
+	<true/>
+	<key>DeckHeader</key>
+	<string>Contents</string>
+	<key>DBName</key>
+	<string>SaveTheAnimals.db3</string>
+	<key>HeaderTitle</key>
+	<string>Endangered Animals</string>
+	<key>FacebookHeader</key>
+	<string>Endangered Animals</string>
+	<key>FacebookAppID </key>
+	<string>136422206434654</string>
+	<key>FacebookAppSecretKey</key>
+	<string>d9b94a7b6157859be29f2556d00fadde</string>
+	<key>TwitterOAuthConsumerKey</key>
+	<string>KtcHiQHeCg1K9QlbTPYl1w</string>
+	<key>TwitterOAuthConsumerSecret</key>
+	<string>XJPpP67jTeSJAqZILE6aamRwSBUIbmNKUKqgewaqQ</string>
+	<key>AppiraterIAppID</key>
+	<string>505822281</string>
+	<key>AllCardsDeckColor</key>
+	<string>95,197,230</string>
+	<key>IntroDeckColor</key>
+	<string>134,166,98</string>
+	<key>IndexRowColor</key>
+	<string>248,213,120</string>
+	<key>BookmarkedCardsDeckColor</key>
+	<string>255,203,71</string>
+	<key>TwitterUrlCallback</key>
+	<string>www.spearheadinc.com</string>
+	<key>AllCardsTextColor</key>
+	<string>0,0,0</string>
+	<key>BookmarkedCardsTextColor</key>
+	<string>0,0,0</string>
+	<key>DeckCardsTextColor</key>
+	<string>255,255,255</string>
+	<key>DeckHeaderTextColor</key>
+	<string>255,255,255</string>
+	<key>CardList</key>
+	<string>yes</string>
+	<key>RandomOption</key>
+	<string>yes</string>
+	<key>StartSound</key>
+	<string>yes</string>
+	<key>StartSoundFile</key>
+	<string>tigernew.mp3</string>
+	<key>TapToFlip</key>
+	<string>yes</string>
+</dict>
+</plist>

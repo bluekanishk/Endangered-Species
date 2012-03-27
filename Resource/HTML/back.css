@@ -1,0 +1,44 @@
+body{padding:0 2%;}
+
+h1{font:bold 125% Verdana,sans-serif;margin:0 -2.1% 1% -2.1%;padding:1% 2%;width:100%;}
+h2{font:bold 90% Verdana,sans-serif;margin:0 -2.1% 1% -2.1%;padding:1% 2% 2% 2%;width:104%;}
+
+
+p{margin:0 0 2% 0;}
+p img.streched{width:100%;}
+a span{font-size:1px;}
+
+/*
+div.fish div.WowBox{background:url('gradient_fish.png') left top repeat-x;}
+div.WowBox{border:10px solid #000;width:90%;margin:0 auto;padding:0 0 2% 0;text-align:center;}
+
+div.WowBox p.wow{margin:0;padding:2%;color:#000;text-align:center;font-weight:bold;font-size:150%;}
+div.WowBox p{padding:0;margin:0;text-align:left;}
+*/
+
+p.wow{margin:5% 5% 0 5%; -webkit-box-shadow: 10px 10px 1em #cccccc; -moz-box-shadow: 10px 10px 1em #cccccc; box-shadow: 10px 10px 1em #cccccc; text-align:center; padding:0 1% 1% 1%}
+
+b.red{color:#f00;font-weight:normal;}
+
+ol{margin:0;padding: 0 2% 0 10%;}
+ol li{padding:0 0 2% 2%}
+
+ul{margin:0;padding:0 2% 0 3%;list-style:none;}
+ul li{padding:0 0 2% 3%;background:url('bullet.jpg') left top no-repeat;}
+
+
+table{width:100%;padding:0 2% 2% 2%;margin:0;}
+table.noPadding{padding:0 2% 0 2%;}
+table td, table th{font:250% Verdana,sans-serif;vertical-align:top;text-align:left;}
+table.smallTable td, table.smallTable th{font:200% Verdana,sans-serif;}
+table td.lineTop,table td.lineBottom{border-top:1px solid #000;font-size:1px;}
+
+table th.Col1By2,table th.Col2By2{width:48%;}/* (100% - 4% (2% each column))/2  */
+table th.Col1By3,table th.Col2By3,table th.Col3By3{width:31.33%;}/* 100% - 6% / 3 */
+table th.Col1By4,table th.Col2By4,table th.Col3By4,table th.Col4By4{width:23%;} /* 100% - 8% / 4 */
+table th.Col1By5,table th.Col2By5,table th.Col3By5,table th.Col4By5,table th.Col5By5{width:18%;} /* 100% - 10% / 5 */
+
+table th{padding: 0 2% 0 0; vertical-align:bottom;}
+table td{padding: 0 2% 1% 0;}
+
+
